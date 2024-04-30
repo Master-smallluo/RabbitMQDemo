@@ -1,0 +1,2 @@
+该Demo仅供学习参考，请勿用于商业用途。
+主要介绍RabbitMQ的定义和使用，以及详细介绍RabbitMQ的API。
